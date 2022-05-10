@@ -5,7 +5,7 @@ const orders = [
         extra: "bacon",
         ital: "Fanta",
         ar: 2300,
-        kep: "https://www.pexels.com/hu-hu/foto/kenyer-elelmiszer-szendvics-zoldsegek-1639557/"
+        kep: "https://images.pexels.com/photos/1639557/pexels-photo-1639557.jpeg?cs=srgb&dl=pexels-valeria-boltneva-1639557.jpg&fm=jpg"
 
     },
 
@@ -15,7 +15,7 @@ const orders = [
         extra: "sült hagyma",
         ital: "Mentes ásványvíz",
         ar: 2200,
-        kep: "https://www.pexels.com/hu-hu/foto/elelmiszer-ebed-etkezes-vegetarianus-6546024/"
+        kep: "https://images.pexels.com/photos/6546024/pexels-photo-6546024.jpeg?cs=srgb&dl=pexels-alesia-kozik-6546024.jpg&fm=jpg"
 
     },
 
@@ -25,7 +25,7 @@ const orders = [
         extra: "extra csípős szósz",
         ital: "Coca cola",
         ar: 2600,
-        kep: "https://www.pexels.com/hu-hu/foto/kenyer-elelmiszer-vacsora-ebed-1633578/"
+        kep: "https://images.pexels.com/photos/1633578/pexels-photo-1633578.jpeg?cs=srgb&dl=pexels-rajesh-tp-1633578.jpg&fm=jpg"
 
     },
 
@@ -35,7 +35,7 @@ const orders = [
         extra: "Csípős szósz, Bacon",
         ital: "Coca cola Light",
         ar: 3100,
-        kep: "https://www.pexels.com/hu-hu/foto/elelmiszer-etkezes-gyorskaja-hamburger-12034622/"
+        kep: "https://images.pexels.com/photos/12034622/pexels-photo-12034622.jpeg?cs=srgb&dl=pexels-israel-albornoz-12034622.jpg&fm=jpg"
 
     },
 
@@ -45,7 +45,7 @@ const orders = [
         extra: "Bacon ,sajtszósz",
         ital: "Coca cola Light",
         ar: 3100,
-        kep: "https://www.pexels.com/hu-hu/foto/elelmiszer-etkezes-gyorskaja-hamburger-12034622/"
+        kep: "https://images.pexels.com/photos/2702674/pexels-photo-2702674.jpeg?cs=srgb&dl=pexels-anna-tukhfatullina-food-photographerstylist-2702674.jpg&fm=jpg"
 
     },
 
@@ -57,7 +57,7 @@ const orders = [
         extra: "",
         ital: "Savas Ásványvíz",
         ar: 2200,
-        kep: "https://www.pexels.com/hu-hu/foto/elelmiszer-ebed-etkezes-vegetarianus-6546024/"
+        kep: "https://images.pexels.com/photos/6546024/pexels-photo-6546024.jpeg?cs=srgb&dl=pexels-alesia-kozik-6546024.jpg&fm=jpg"
 
     },
 ]
